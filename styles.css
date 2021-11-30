@@ -31,7 +31,15 @@ p {
 img {
   width: 80%;
 }
-
+button{
+  margin-left: 48%;
+  margin-top: 5%;
+  size: 10%;
+  background-color: #abe047;
+  text-align: center;
+  align-items: center;
+  font-size: large;
+}
 footer {
   margin-top: 5%;
   color: #EEEEEE;
