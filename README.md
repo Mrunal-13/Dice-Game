@@ -1,5 +1,7 @@
 # Dice-Game
 
+***play here https://mrunal-13.github.io/Dice-Game/***
+
 ![GitHub language count](https://img.shields.io/github/languages/count/mrunal-13/dice-game) ![GitHub top language](https://img.shields.io/github/languages/top/mrunal-13/dice-game)
 
 ## Table of content
