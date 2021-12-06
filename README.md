@@ -14,3 +14,11 @@
 
 4>[Resources](#Resources)
 
+## Introduction
+
+Dice game is web application designed using js,html and css. It is as simillar as tossing coin and deciding which player to play match.If you are confused in deciding who wins the toss between two then simply press the play button on dice game and two dices are rolled and one with bigger dice number wins the game.Try using it to decide your game.
+
+## How to Play?
+1)open above link
+2)
+
